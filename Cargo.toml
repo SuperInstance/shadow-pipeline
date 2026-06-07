@@ -1,0 +1,9 @@
+[package]
+name = "shadow-pipeline"
+version = "0.1.0"
+edition = "2021"
+description = "Lossy shadow compression pipeline with ordered stages, fidelity scoring, and human-readable rendering"
+license = "MIT"
+repository = "https://github.com/SuperInstance/shadow-pipeline"
+
+[dependencies]
